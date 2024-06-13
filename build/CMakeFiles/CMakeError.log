@@ -1,0 +1,13 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /gpfs/commons/home/cangel/anaconda3/bin/x86_64-conda-linux-gnu-c++ 
+Build flags: ;-std=c++11
+Id flags:  
+
+The output was:
+1
+/gpfs/commons/home/cangel/anaconda3/bin/../lib/gcc/x86_64-conda-linux-gnu/11.2.0/../../../../x86_64-conda-linux-gnu/bin/ld: /gpfs/commons/home/cangel/anaconda3/bin/../lib/gcc/x86_64-conda-linux-gnu/11.2.0/../../../../x86_64-conda-linux-gnu/lib/../lib64/libstdc++.so: undefined reference to `memcpy@GLIBC_2.14'
+/gpfs/commons/home/cangel/anaconda3/bin/../lib/gcc/x86_64-conda-linux-gnu/11.2.0/../../../../x86_64-conda-linux-gnu/bin/ld: /gpfs/commons/home/cangel/anaconda3/bin/../lib/gcc/x86_64-conda-linux-gnu/11.2.0/../../../../x86_64-conda-linux-gnu/lib/../lib64/libstdc++.so: undefined reference to `aligned_alloc@GLIBC_2.16'
+/gpfs/commons/home/cangel/anaconda3/bin/../lib/gcc/x86_64-conda-linux-gnu/11.2.0/../../../../x86_64-conda-linux-gnu/bin/ld: /gpfs/commons/home/cangel/anaconda3/bin/../lib/gcc/x86_64-conda-linux-gnu/11.2.0/../../../../x86_64-conda-linux-gnu/lib/../lib64/libstdc++.so: undefined reference to `clock_gettime@GLIBC_2.17'
+collect2: error: ld returned 1 exit status
+
+
