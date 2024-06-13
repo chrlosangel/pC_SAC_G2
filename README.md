@@ -60,7 +60,7 @@ To verify that pC-SAC has been installed correctly, you can run a test using pro
 
 ### Files Description
 
-Within the `test_data` directory, you will find several example input files required for running pC-SAC. Please explore these files in order to understand each required input:
+Within the `test_toy` directory, you will find several example input files required for running pC-SAC. Please explore these files in order to understand each required input:
 
 - `int_mat_seg_len.txt`: Length of this file represents the length of any chain for a given reconstruction.
 - `interaction_matrix.txt`: Initial long-range probabilities.
