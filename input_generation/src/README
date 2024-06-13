@@ -1,0 +1,9 @@
+Keep only built-in functions:
+    * reconstruct
+    * submatrices - need to split into actuall submatrices and other utils
+    * utils 
+    * globals
+
+Move all notebooks to a new directory
+Keep an example for how to run main_functions and update it
+Decide if utils and reconstruct are gonna be here or in main folder
